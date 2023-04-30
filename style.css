@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    background: rgb(63,158,251);
+    background: radial-gradient(circle, rgba(63,158,251,1) 12%, rgba(70,252,180,1) 86%);
+    font-size: 120%;
+  }
+  #fotoNavbar{
+    width: 60px;
+  }
+  .navbar{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    font-weight: 600;
+  }
+  #info{
+    cursor: pointer;
+  }
+  .nav-link{
+    color: white;
+    margin-top: 10px;
+  }
+  .nav-link:hover{
+    color: white;
+  }
+  .navbar-toggler-icon{
+    width: 20px;
+    height: 20px;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  .navbar-toggler{
+    border: 1px solid rgb(255, 255, 255);
+  }
+  .navbar-toggler:focus{
+    box-shadow: none;
+  }
+  
+  
+  .tablero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120%;
+    margin-bottom: 90px;
+  }
+  
+  #encabezado {
+    width: 80vw;
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+  }
+  h2{
+    font-size: 50px;
+  }
+  
+  .opcion {
+    width: 70vw;
+    background: white;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 25px;
+  }
+  
+  .opcion:hover{
+       background: rgb(62, 90, 250);
+       color: white;
+  }
+
+  #pregunta{
+    font-family:sans-serif;
+    font-weight: 650;
+    font-size: 35px;
+  }
+  .resIncorrecta{
+    font-size: 30px;
+  }
+  #btnExamen{
+    margin: 10px;
+    font-size: x-large;
+    font-weight: 600;
+  }
+  
+  .col-sm-4{
+    margin-top: 10px;
+    font-size: 19px;
+
+  }
+  #creador{
+    border-top: 1px solid white;
+    margin-top: 25px;
+    font-size: 17px;
+  }
+  footer{
+    margin-top: 30px;
+  }
+  #github{
+    text-decoration: none;
+    color: white;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }
