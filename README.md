@@ -18,5 +18,11 @@ Al seleccionar una respuesta, si la respuesta no es correcta, indica cual es la 
 
 `Proyecto` : <https://simuladorexamenvial.netlify.app/>
 
+## Screenshots
+![App Screenshot](https://github.com/LuissFrank/simulador-de-examen-vial/blob/448e089efc3c6aa40db9b4a465909b6455c3141f/screenshots/Captura%20de%20pantalla_20-12-2024_223843_simuladorexamenvial.netlify.app.jpeg)
+![App Screenshot](https://github.com/LuissFrank/simulador-de-examen-vial/blob/448e089efc3c6aa40db9b4a465909b6455c3141f/screenshots/Captura%20de%20pantalla_20-12-2024_224031_simuladorexamenvial.netlify.app.jpeg)
+![App Screenshot](https://github.com/LuissFrank/simulador-de-examen-vial/blob/448e089efc3c6aa40db9b4a465909b6455c3141f/screenshots/Captura%20de%20pantalla_20-12-2024_224138_simuladorexamenvial.netlify.app.jpeg)
+![App Screenshot](https://github.com/LuissFrank/simulador-de-examen-vial/blob/448e089efc3c6aa40db9b4a465909b6455c3141f/screenshots/Captura%20de%20pantalla_20-12-2024_224237_simuladorexamenvial.netlify.app.jpeg)
+
 
 
