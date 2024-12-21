@@ -1,3 +1,4 @@
+![App Screenshot](https://licenciaconducir.com.ar/wp-content/uploads/2022/02/simulador-de-examen-teorico-de-conducir-licencia-tipo-b.jpg)
 # Simulador de examen vial 
 
 ## Introducción 📝
