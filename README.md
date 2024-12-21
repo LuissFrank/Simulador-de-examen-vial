@@ -19,6 +19,4 @@ Al seleccionar una respuesta, si la respuesta no es correcta, indica cual es la 
 `Proyecto` : <https://simuladorexamenvial.netlify.app/>
 
 
-# Editor.md
 
-![](https://camo.githubusercontent.com/8f876071275eed8e14d7a5d1a362030972b1cef9180bf9695d6a010ae0e5325d/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f3132393037333836352f313637363835353132332f3135303078353030)
